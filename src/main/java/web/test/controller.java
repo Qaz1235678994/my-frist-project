@@ -14,7 +14,7 @@ public class controller extends HttpServlet {
  
 	@Override
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		System.out.println("20241102_Test");
+		System.out.println("20241102test_Test");
 	}
 
 
